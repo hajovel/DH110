@@ -8,4 +8,4 @@
 
 ##### assignment01
 
-Esto es la spacio para los projectos por DH110.
+Esto es la espacio para los projectos por DH110.
