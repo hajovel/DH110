@@ -2,10 +2,8 @@
 
 ## haven jovel
 
-### project title
+### Digital Humanities 110
 
-#### project description
+#### assignment01
 
-##### assignment01
-
-Esto es la espacio para los projectos por DH110.
+This space is for the class Digital Humanities 110, for my class project based on familial connection. My app/website allows for family members to easily check in on family members by sending reminders of specific dates and events, setting reminders to check in and reply to family members, and sharing location for safety tracking. 
